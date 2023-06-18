@@ -4,7 +4,7 @@ Este repositório contém um script shell que automatiza o processo de pós-inst
 
 ## Lista de Programas
 
-A lista de programas incluídos no script pode ser encontrada no arquivo [programas.txt](programas.txt). Ela abrange uma variedade de categorias, incluindo produtividade, desenvolvimento, multimídia, navegadores, entre outros.
+A lista de programas incluídos no script pode ser encontrada no arquivo [lista.md](lista.md). Ela abrange uma variedade de categorias, incluindo produtividade, desenvolvimento, multimídia, navegadores, entre outros.
 
 ## Uso
 
