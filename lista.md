@@ -1,0 +1,116 @@
+# Lista de Programas para Pós Instalação do Linux
+
+- OnlyOffice Desktop Editors
+- Todoist
+- Master PDF Editor
+- Protogrid
+- Typora
+
+- Brave Browser
+- Mozilla Thunderbird
+- Discord
+- Dropbox
+- Electrum Bitcoin Wallet
+- Element
+- Filezilla
+- Firefox Web Browser
+- Fluent Reader
+- Fondo
+- Google Chrome
+- Google Earth
+- HakuNeko Desktop
+- Hiri
+- Home Media Server
+- Links 2
+- Microsoft Edge (dev)
+- Microsoft Teams
+- Tor Browser
+- Opera Browser Developer
+- QBitTorrent
+- RClone Browser
+- Robo3T (MongoDB Client)
+- TeamViewer
+- Telegram Desktop
+- Video Downloader
+- WhatsApp
+- Zoom
+
+- Blender
+- Darktable
+- Drawio
+- Flameshot
+- Inkscape
+- Krita
+- Natron
+- DaVinci Resolve
+- PhotoGIMP
+- XSane
+- Audacity
+- Controle de Volume do Pulse Audio (PavuControl)
+- Curlew
+- Gnome Tela Via Rede
+- Brasero
+- Handbrake
+- KdenLive
+- LightWorks
+- MPV Media Player
+- OBS Studio
+- Olivia 
+- Pitivi
+- VLC Media Player
+- Spotify
+- VokoScreen
+- Netflix
+
+- Steam
+- Lutris
+- XEmu
+
+- Arduino IDE
+- Atom
+- Gnome Boxes
+- Brackets
+- ClickUP
+- DB Browser for SQLite
+- DBeaver 
+- Geany
+- GitKraken
+- GTK + Demo
+- ICon Browser
+- IntelliJ IDEA Edu
+- Lazarus
+- MySQL WorkBench
+- PHPMyAdmin
+- PHP Storm
+- Portugol Studio
+- Scratch
+- Sublime Text
+- Visual Studio Code
+- Widget Factory
+- Astah UML
+
+- Polo File Manager
+
+- Authy Desktop
+- Evernote
+- Fragments
+- Home Server
+- Notable]
+- Notion
+- RCloneTray
+- SimpleNote
+- Jamovi
+- SimpleScreenRecorder
+- Unleash
+- Zenkit
+- Adobe Creative Cloud Express
+- Google Meet
+- YouTube
+- WhatsApp
+- TweetDeck
+- ProtonMail
+- Instagram
+- Figma
+- Office 365
+- Balsamiq Wireframes
+- Gnome Software
